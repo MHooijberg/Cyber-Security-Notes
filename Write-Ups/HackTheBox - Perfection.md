@@ -75,6 +75,7 @@ Other than the about us page we can see an page for calculating weighted grades:
 
 In this page we have a few input fields which can be used to calculate the weighted grade in a class. There's a maximum of five categories which can be filled out.
 
+## Webapp Exploitation
 After playing around with the calculator can see that the only allowed character other than letters and numbers is a slash. All other input will give us the following error message:
 
 > Malicious input blocked

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write-Ups/Sample Writeup.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write-Ups/Sample Writeup.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write-Ups/Sample Writeup.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write-Ups/Sample Writeup.md"
+                "file": "README.md"
               }
             }
           },
@@ -160,17 +160,24 @@
   },
   "active": "7a92cc6f72b6446b",
   "lastOpenFiles": [
-    "Write-Ups/HackTheBox - Perfection.md",
-    "Pasted image 20240327143733.png",
-    "Pasted image 20240327144816.png",
-    "Pasted image 20240327144236.png",
-    "Write-Ups/Sample Writeup.md",
-    "README.md",
+    "Configration/README.md.md",
     "Untitled.canvas",
+    "Concepts/Vulnerabilities/Server-Side Template Injection (SSTI).md",
+    "Concepts/Networking",
+    "Concepts/Linux",
+    "Concepts/Vulnerabilities",
+    "Write-Ups/HackTheBox - Perfection.md",
+    "Concepts",
+    "Write-Ups/Attachments/Pasted image 20240327144816.png",
+    "Write-Ups/Attachments/Pasted image 20240327144236.png",
+    "Write-Ups/Attachments",
+    "Write-Ups/WriteUp.md",
+    "Write-Ups/Sample Writeup.md",
+    "Write-Ups/Attachments/Pasted image 20240327143733.png",
+    "README.md",
     "2024-03-27.md",
     "Configration/tmux - terminal multiplexer.md",
     "Untitled.md",
-    "Write-Ups/Untitled",
     "Write-Ups",
     "Configration"
   ]
